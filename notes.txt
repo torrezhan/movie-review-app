@@ -1,5 +1,11 @@
+nodejs.org
+
+npx create-react-app project-name
+cd project-name
+
 npm install
 npm start
+
 npm run build
 npm install -g serve
 serve -s build
